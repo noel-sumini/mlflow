@@ -1,0 +1,9 @@
+digest: 8be8bd3e
+name: dataset
+profile: '{"features_shape": [455, 30], "features_size": 13650, "features_nbytes":
+  109200}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 30]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "sumin", "mlflow.source.name": "main.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

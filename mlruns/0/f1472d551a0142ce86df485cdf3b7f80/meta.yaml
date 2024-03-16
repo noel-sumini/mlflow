@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f1472d551a0142ce86df485cdf3b7f80/artifacts
+end_time: 1710522693323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1472d551a0142ce86df485cdf3b7f80
+run_name: 20240316-021131
+run_uuid: f1472d551a0142ce86df485cdf3b7f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710522691542
+status: 3
+tags: []
+user_id: sumin

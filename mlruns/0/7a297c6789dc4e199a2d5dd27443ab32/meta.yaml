@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7a297c6789dc4e199a2d5dd27443ab32/artifacts
+deleted_time: 1710520170923
+end_time: 1710519687161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7a297c6789dc4e199a2d5dd27443ab32
+run_name: big-perch-4
+run_uuid: 7a297c6789dc4e199a2d5dd27443ab32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710519685439
+status: 3
+tags: []
+user_id: sumin

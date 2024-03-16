@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/efc08ad8199e44dba225563e570d2e2b/artifacts
+end_time: 1710522122801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efc08ad8199e44dba225563e570d2e2b
+run_name: capricious-kit-925
+run_uuid: efc08ad8199e44dba225563e570d2e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710522121017
+status: 3
+tags: []
+user_id: sumin
